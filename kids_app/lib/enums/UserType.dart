@@ -1,0 +1,6 @@
+
+enum UserType
+{
+  parent,
+  children
+}

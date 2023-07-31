@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435214199622",
+    "project_id": "kid-app-5f070",
+    "storage_bucket": "kid-app-5f070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435214199622:android:c049d7e8fe19c8be4b1347",
+        "android_client_info": {
+          "package_name": "com.example.kids_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435214199622-gavbost66kt8pv4tr39ohtp4cq1vacga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kids_app",
+            "certificate_hash": "cae77146139f9483c1687293da920ed4ffb82c9f"
+          }
+        },
+        {
+          "client_id": "435214199622-kgusjfd1ek7rrtqcgg2fqha92llvgnuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT2XyI_j_1axVCADaSTcesZDRifgt0j-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435214199622-5hv8c778lf3ilrfi5qrdu5p4piog908l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
